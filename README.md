@@ -1,5 +1,5 @@
 ### Hi! Welcome. :blush:
-<kbd>[<img title="Portuguese" alt="Portuguese" src="https://github.com/devrosilva/devrosilva/tree/main/translations/portuguese/br.jpg" width="22">](https://github.com/devrosilva/devrosilva/tree/main/translations/portuguese/README.br.md)</kbd>
+<kbd>[<img title="Portuguese" alt="Portuguese" src="translations/portuguese/br.jpg" width="30">](translations/portuguese/README.br.md)</kbd>
 
 I am Rodrigo. In the last seven years I worked at the bank sector. However, I've been wishing to work with IT for quite some time.
 
