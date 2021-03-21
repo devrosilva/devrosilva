@@ -1,5 +1,5 @@
 ### Hi! Welcome. :blush:
-[![<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>](https://github.com/devrosilva/devrosilva/tree/main/translations/portuguese/brazilian-flag16px)](https://github.com/devrosilva/devrosilva/tree/main/translations/portuguese/README.br.md)  
+[![<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>](https://github.com/devrosilva/devrosilva/tree/main/translations/portuguese/brazilian-flag16px)](https://github.com/devrosilva/devrosilva/tree/main/translations/portuguese/brazilian-flag16px.png)  
 
 I am Rodrigo. In the last seven years I worked at the bank sector. However, I've been wishing to work with IT for quite some time.
 
