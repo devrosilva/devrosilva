@@ -1,3 +1,6 @@
+<!---
+This README.md file was made with the help of Iuri. You can find him at: https://github.com/iuricode.
+-->
 ### Hi! Welcome. :blush:
 <kbd>[<img title="Portuguese" alt="Portuguese" src="translations/portuguese/br.jpg" width="30">](translations/portuguese/README.br.md)</kbd>
 
@@ -27,3 +30,5 @@ Currently I am studying Information Systems. Also, I am participating of a few B
 [![card](https://github-readme-stats.vercel.app/api?username=devrosilva&theme=default)](https://github.com/devrosilva/)  
   
 [![devrosilva](https://github-readme-stats.vercel.app/api/top-langs/?username=devrosilva&hide=html&layout=compact&theme=default)](https://github.com/devrosilva/)
+
+
