@@ -16,7 +16,7 @@ No momento estou cursando Sistemas de Informação e realizando alguns Bootcamps
 
 <br>  
 
-Algumas de minhas habilidades e áreas de interesse:  
+**Algumas de minhas habilidades e áreas de interesse:**  
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
@@ -26,7 +26,7 @@ Algumas de minhas habilidades e áreas de interesse:
 
 <br>  
 
-Caso queira entrar em contato comigo estas são minhas redes sociais:  
+**Caso queira entrar em contato comigo estas são minhas redes sociais:**  
 
 [![Instagram Image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo.rsilva34/) [![LinkeIn Image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-rodrigues1986/)  
 
@@ -35,4 +35,3 @@ Caso queira entrar em contato comigo estas são minhas redes sociais:
 [![card](https://github-readme-stats.vercel.app/api?username=devrosilva&theme=default)](https://github.com/devrosilva/)  
   
 [![devrosilva](https://github-readme-stats.vercel.app/api/top-langs/?username=devrosilva&hide=html&layout=compact&theme=default)](https://github.com/devrosilva/)
-
