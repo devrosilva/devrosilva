@@ -4,11 +4,14 @@ This README.md file was made with the help of Iuri. You can find him at: https:/
 ### Hi! Welcome. :blush:
 <kbd>[<img title="Portuguese" alt="Portuguese" src="translations/portuguese/br.jpg" width="30">](translations/portuguese/README.br.md)</kbd>
 
-I am Rodrigo. In the last seven years I worked at the bank sector. However, I've been wishing to work with IT for quite some time.
+I am Rodrigo. In the last seven years I worked at the bank sector. However, I've been wishing to work with IT for quite some time. So, after a long preparation, I 
 
-So, after a long preparation, I quit my job to entirely dedicate myself to the dream of become an IT professional.
+quit my job to entirely dedicate myself to the dream of become an IT professional.
 
-Currently I am studying Information Systems. Also, I am participating of a few Bootcamps and doing some self-education with the objective of finally start a career in IT.  
+I am currently studying Information Systems, participating of a few Bootcamps and studying a lot by myself.
+
+Thanks for visiting.
+
 <br>
 
 **Some of my skills and areas of interest:**  
