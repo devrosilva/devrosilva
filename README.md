@@ -30,4 +30,4 @@ Thanks for visiting.
 
 [![card](https://github-readme-stats.vercel.app/api?username=devrosilva&theme=default)](https://github.com/devrosilva/)  
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrosilva&langs_count=8)](https://github.com/devrosilva/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrosilva&langs_count=3)](https://github.com/devrosilva/)
