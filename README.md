@@ -30,6 +30,6 @@ Thanks for visiting.
 
 [![card](https://github-readme-stats.vercel.app/api?username=devrosilva&theme=default)](https://github.com/devrosilva/)  
   
-[![devrosilva](https://github-readme-stats.vercel.app/api/top-langs/?username=devrosilva&hide=html&layout=compact&theme=default)](https://github.com/devrosilva/)
+[![devrosilva](https://github-readme-stats.vercel.app/api/top-langs?username=devrosilva&hide=html&layout=compact&theme=default)](https://github.com/devrosilva/)
 
 
