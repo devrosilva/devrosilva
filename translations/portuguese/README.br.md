@@ -26,4 +26,4 @@ No momento estou cursando Sistemas de Informação e realizando alguns Bootcamps
 
 [![card](https://github-readme-stats.vercel.app/api?username=devrosilva&theme=default)](https://github.com/devrosilva/)  
   
-[![devrosilva](https://github-readme-stats.vercel.app/api/top-langs/?username=devrosilva&hide=html&layout=compact&theme=default)](https://github.com/devrosilva/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrosilva&exclude_repo=dio-projects)](https://github.com/devrosilva/)
