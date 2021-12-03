@@ -6,9 +6,9 @@ This README.md file was made with the help of Iuri. You can find him at: https:/
 
 I am Rodrigo. I currently work as a Software Engineer at Inter.
 
-I also have a degree in Systems Analysis and I am studying Information Systems for a second one.
+I have a degree in Systems Analysis and I'm taking a second degree in Information Systems.
 
-Thanks for visiting. 
+Thanks for the visit.
 
 <br>
 
