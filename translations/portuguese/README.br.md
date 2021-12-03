@@ -1,10 +1,10 @@
 ### Olá! Seja bem vindo(a). :blush:  
 
-Eu sou o Rodrigo. Nos últimos anos atuei no setor bancário. Contudo, já há algum tempo, desejo migrar para TI, uma área que tenho prazer em conhecer e estudar.  
+Eu sou o Rodrigo. Atualmente trabalho como Dev no Inter.
 
-Assim, após vários arranjos e muita preparação, deixei meu emprego para dedicar-me inteiramente ao sonho de ser um profissional da área.  
+Sou formado em Análise de Sistemas e estou cursando uma segunda graduação em Sistemas de Informação.
 
-No momento estou cursando Sistemas de Informação e realizando alguns Bootcamps e estudos independentes com o objetivo de ingressar no mercado de TI.  
+Obrigado pela visita.
 
 <br>  
 
