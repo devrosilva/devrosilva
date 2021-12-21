@@ -4,7 +4,7 @@ This README.md file was made with the help of Iuri. You can find him at: https:/
 ### Hi! Welcome. :blush:
 <kbd>[<img title="Portuguese" alt="Portuguese" src="translations/portuguese/br.jpg" width="30">](translations/portuguese/README.br.md)</kbd>
 
-I am Rodrigo. I currently work as a Software Engineer at Inter.
+I am Rodrigo. I currently work as a Software Developer at Inter.
 
 I have a degree in Systems Analysis and I'm taking a second degree in Information Systems.
 
