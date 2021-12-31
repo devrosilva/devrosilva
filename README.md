@@ -29,6 +29,6 @@ Thanks for the visit.
 
 <br>  
 
-[![card](https://github-readme-stats.vercel.app/api?username=devrosilva&theme=default)](https://github.com/devrosilva/)  
+[![card](https://github-readme-stats.vercel.app/api?username=devrosilva&theme=default)] 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrosilva&exclude_repo=dio-projects/tree/main/cqrs-quarkus-eks-deploy,dio-projects/tree/main/java-kubernetes,dio-projects/tree/main/microsservices-spring-kafka,dio-projects/tree/main/spring-web-flux-api,dio-projects/tree/main/unit-tests-beer-api,dio-projects/tree/main/bootcamps/mrv-full-stack-developer/bootstrap)](https://github.com/devrosilva/)
