@@ -4,9 +4,9 @@ This README.md file was made with the help of Iuri. You can find him at: https:/
 ### Hi! Welcome. :blush:
 <kbd>[<img title="Portuguese" alt="Portuguese" src="translations/portuguese/br.jpg" width="30">](translations/portuguese/README.br.md)</kbd>
 
-I am Rodrigo. I currently work as a Software Developer at Metrobi, which is a startup suported by [Techstars](https://www.techstars.com/ "Techstars").
+I am Rodrigo. I currently work as a Software Developer at Metrobi, which is a startup supported by [Techstars](https://www.techstars.com/ "Techstars").
 
-I have a degree in Systems Analysis and I'm taking a second degree in Information Systems.
+I have an associate degree in Systems Analysis and I'm taking a bachelor's degree in Information Systems.
 
 Thanks for the visit.
 
