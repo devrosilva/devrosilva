@@ -1,6 +1,6 @@
 ### Olá! Seja bem vindo(a). :blush:  
 
-Eu sou o Rodrigo. Atualmente trabalho como Dev na Metrobi, startup americana suportada pelo <a href="https://www.techstars.com/" Techstar></a>.
+Eu sou o Rodrigo. Atualmente trabalho como Dev na Metrobi, startup americana suportada pelo [Techstars](https://www.techstars.com/ "Techstars").
 
 Sou formado em Análise de Sistemas e estou cursando uma segunda graduação em Sistemas de Informação.
 
