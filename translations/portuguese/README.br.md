@@ -1,6 +1,6 @@
 ### Olá! Seja bem vindo(a). :blush:  
 
-Eu sou o Rodrigo. Atualmente trabalho como Dev no Inter.
+Eu sou o Rodrigo. Atualmente trabalho como Dev na Metrobi, uma Tech Star americana.
 
 Sou formado em Análise de Sistemas e estou cursando uma segunda graduação em Sistemas de Informação.
 
