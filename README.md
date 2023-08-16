@@ -38,6 +38,4 @@ If you have any questions or would like to connect, don't hesitate to reach me. 
 
 <br>  
 
-[![card](https://github-readme-stats.vercel.app/api?username=devrosilva&theme=default)](https://github.com/devrosilva/) 
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrosilva&exclude_repo=)](https://github.com/devrosilva/) 
