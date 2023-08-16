@@ -25,6 +25,4 @@ Obrigado pela visita.
 
 <br>  
 
-[![card](https://github-readme-stats.vercel.app/api?username=devrosilva&theme=default)](https://github.com/devrosilva/)  
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrosilva&exclude_repo=dio-projects)](https://github.com/devrosilva/)
