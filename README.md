@@ -26,7 +26,7 @@ Thanks for the visit.
 
 **In case you want to reach me here are my social media:**  
 
-[![Instagram Image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo.rsilva34/) [![LinkeIn Image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devrosilva)  
+[![Instagram Image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo.rsilva34/) [![LinkeIn Image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devrosilva/)  
 
 <br>  
 
