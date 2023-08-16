@@ -4,11 +4,15 @@ This README.md file was made with the help of Iuri. You can find him at: https:/
 ### Hi! Welcome. :blush:
 <kbd>[<img title="Portuguese" alt="Portuguese" src="translations/portuguese/br.jpg" width="30">](translations/portuguese/README.br.md)</kbd>
 
-I am Rodrigo. I currently work as a Software Developer at [Metrobi](https://metrobi.com/ "Metrobi"), which is a startup supported by [Techstars](https://www.techstars.com/ "Techstars").
+Hello! Welcome to my profile!
 
-I have an associate degree in Systems Analysis and I'm taking a bachelor's degree in Information Systems.
+I am a dedicated front-end/mobile developer with expertise in HTML, CSS, JavaScript, TypeScript, React, and React Native. On a daily basis, I leverage these technologies to create user-friendly web and mobile experiences. I am also proficient in working with databases, having experience with PostgreSQL and Firebase. I have also a background as a back-end developer, having worked with Java and Python.
 
-Thanks for the visit.
+In addition to my technical skills, I have experience working in agile teams, collaborating effectively to deliver high-quality projects within dynamic and fast-paced environments.
+
+Throughout my career, I have been driven by a passion for technology and a desire to create impactful solutions. I thrive in collaborative environments and am always eager to learn and adapt to new challenges.
+
+If you have any questions or would like to connect, don't hesitate to reach me. :)
 
 <br>
 
