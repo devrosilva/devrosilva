@@ -6,13 +6,9 @@ This README.md file was made with the help of Iuri. You can find him at: https:/
 
 Hello! Welcome to my profile!
 
-I am a dedicated front-end/mobile developer with expertise in HTML, CSS, JavaScript, TypeScript, React, and React Native. On a daily basis, I leverage these technologies to create user-friendly web and mobile experiences. I am also proficient in working with databases, having experience with PostgreSQL and Firebase. I have also a background as a back-end developer, having worked with Java and Python.
+I am a dedicated Frontend developer with expertise in HTML, CSS, JavaScript, TypeScript, React, PostgreSQL and Firebase. I also have a background as a Backend developer, having worked with Java and Python.
 
 In addition to my technical skills, I have experience working in agile teams, collaborating effectively to deliver high-quality projects within dynamic and fast-paced environments.
-
-Throughout my career, I have been driven by a passion for technology and a desire to create impactful solutions. I thrive in collaborative environments and am always eager to learn and adapt to new challenges.
-
-If you have any questions or would like to connect, don't hesitate to reach me. :)
 
 <br>
 
